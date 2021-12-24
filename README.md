@@ -30,19 +30,19 @@ Before you send your first message in the global chat, we recommend you read the
 	* Doing so will result in a warning or a blacklist (for repeated offenders).
 
 ## FAQ:
-> **Q:** Is it possible to delete a message from the global chat once it's been sent?
+> **Q:** Is it possible to delete a message from the global chat once it's been sent?\
 > **A:** Yes. Once you send your message in the global chat, you are given 15 seconds to press the "delete" button - which will stop it from sending everywhere. After those 15 seconds, the "delete" button will disappear. You will not be able to delete your message after that. If you want it to be deleted, you'll need to [join the support server](https://discord.gg/BYuUvE4) and request for your specific message to be deleted manually.
 
-> **Q:** What are chat moderators and how can I become one?
+> **Q:** What are chat moderators and how can I become one?\
 > **A:** Chat moderators are moderators from the Aerex server who are responsible for moderating the global chat. Chat moderators delete and suppress messages containing inappropriate content and are responsible for blacklisting servers and/or users that participate frequently in said violating behavior. You can apply for a staff position in Aerex (if they are open). More information is in the [support server](https://discord.gg/BYuUvE4).
 
-> **Q:** Can I request for a message to be deleted?
+> **Q:** Can I request for a message to be deleted?\
 > **A:** Yes you can. If it is your message, please [join our support server](https://discord.gg/BYuUvE4) and ask in the #assistance channel. A chat moderator will assist you in deleting your message. If you are a server administrator and want a specific message sent by one of your users to be deleted, you can also follow the same procedure above. Note that we may ask you for proof of your server administrator status.
 
-> **Q:** How can I report someone for sending inappropriate content in the global chat?
+> **Q:** How can I report someone for sending inappropriate content in the global chat?\
 > **A:** To report someone, you can bring it to our attention in the global chat, make it clear that you are reporting someone. You can also [join our support server](https://discord.gg/BYuUvE4) and tell us in the #assistance channel. If you wish to report someone privately, you can let a staff member know in Direct Messages.
 
-> **Q:** How do I appeal a global chat blacklist?
+> **Q:** How do I appeal a global chat blacklist?\
 > **A:** Global chat blacklists can be appealed the same way you appeal a bot blacklist. You can do so by [filling out this form](https://forms.gle/BYNKdFCmf5vuoP1r7).
 
 ### Thanks for using our global chat! We hope you have fun!
