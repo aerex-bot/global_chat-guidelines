@@ -19,7 +19,7 @@ Before you send your first message in the global chat, we recommend you read the
 	* We have built in ratelimits in place to filter out spam, but abusing these ratelimits will result in consequences.
 * Do not upload inappropriate content. The global chat is meant for **safe** content only.
 	* You can upload **appropriate** pictures only.
-	* Pictures that are inappropriate will result in **you and/or your server ** being blacklisted.
+	* Pictures that are inappropriate will result in **you and/or your server** being blacklisted.
 * Do not harass, threaten, or target users and/or send any type of slur.
 	* For example: racial slurs are not allowed.
 * Do not distribute private information about others.
@@ -31,7 +31,7 @@ Before you send your first message in the global chat, we recommend you read the
 
 ## FAQ:
 > **Q:** Is it possible to delete a message from the global chat once it's been sent?\
-> **A:** Yes. Once you send your message in the global chat, you are given 15 seconds to press the "delete" button - which will stop it from sending everywhere. After those 15 seconds, the "delete" button will disappear. You will not be able to delete your message after that. If you want it to be deleted, you'll need to [join the support server](https://discord.gg/BYuUvE4) and request for your specific message to be deleted manually.
+> **A:** Yes. Once you send your message in the global chat, you are given 15 seconds to press the "delete" button - which will stop it from sending everywhere. After those 15 seconds, the "delete" button will disappear. You will not be able to delete your message after that. If you want it to be deleted, you'll need to [join the support server](https://discord.gg/BYuUvE4) and request for your specific message to be deleted manually. Please note, older messages may not be able to be deleted due to Discord's [API limitations](https://discord.com/developers/docs/resources/channel#bulk-delete-messages).
 
 > **Q:** What are chat moderators and how can I become one?\
 > **A:** Chat moderators are moderators from the Aerex server who are responsible for moderating the global chat. Chat moderators delete and suppress messages containing inappropriate content and are responsible for blacklisting servers and/or users that participate frequently in said violating behavior. You can apply for a staff position in Aerex (if they are open). More information is in the [support server](https://discord.gg/BYuUvE4).
@@ -43,6 +43,6 @@ Before you send your first message in the global chat, we recommend you read the
 > **A:** To report someone, you can bring it to our attention in the global chat, make it clear that you are reporting someone. You can also [join our support server](https://discord.gg/BYuUvE4) and tell us in the #assistance channel. If you wish to report someone privately, you can let a staff member know in Direct Messages.
 
 > **Q:** How do I appeal a global chat blacklist?\
-> **A:** Global chat blacklists can be appealed the same way you appeal a bot blacklist. You can do so by [filling out this form](https://forms.gle/BYNKdFCmf5vuoP1r7).
+> **A:** Global chat blacklists can be appealed the same way you appeal a bot blacklist. In order to appeal the blacklist, attempt to run a bot command (such as `a!help`), in which you will be prompted to appeal your blacklist by pressing a button to fill out an embedded Discord form.
 
 ### Thanks for using our global chat! We hope you have fun!
